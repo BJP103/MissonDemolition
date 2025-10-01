@@ -25,13 +25,13 @@ public class Slingshot : MonoBehaviour
      void OnMouseEnter()
     {
         //print("Slingshot.OnMouseEnter()");
-        lauchPoint.SetActive(true );
+        lauchPoint.SetActive(true);
     }
 
      void OnMouseExit()
     {
         //print("Sling.OnMouserExit()");
-        lauchPoint.SetActive(false );
+        lauchPoint.SetActive(false);
     }
 
      void OnMouseDown()
